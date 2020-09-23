@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Two Activities</string>
+    <string name="send">SEND</string>
+    <string name="massage_recieved">Massage received</string>
+    <string name="editText_main">Enter your Massage here</string>
+</resources>
